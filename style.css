@@ -1,9 +1,3 @@
-/*
-colors:
-yellow - #FFBE00
-navy   - #192B37
- */
-
 
  * {
 	padding: 0;
@@ -159,6 +153,7 @@ p:last-child {
 	background-image: url('/images/the-sleep-co-1.jpg');
 	background-size: cover;
 }
+
 
 /* universal styles and utility classes */
 
